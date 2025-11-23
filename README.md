@@ -1,4 +1,22 @@
-# Disposable Email Database — The Largest in the World
+<div align="center">
+  <h1>Disposable Email Database — The Largest in the World</h1>
+  <h3>Access the world's largest fraud validation database for free.</h3>
+  <a href="https://github.com/TPEOficial"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://ko-fi.com/fjrg2007"> <img alt="Kofi" src="https://img.shields.io/badge/Ko--fi-purple?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <br />
+  <br />
+  <a href="[https://github.com/FJRG2007/snatch/blob/main/docs/getting-started/quickstart.md](https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide)">Quickstart</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://tpe.li/dsc">Discord</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/private/data-verifier">Data Verifier</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/private/email-validation">Email Validation</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/faq">FAQ</a>
+  <br />
+  <hr />
+</div>
 
 This project provides access to the **largest and most frequently updated database of disposable email addresses** in existence.  
 It is designed for developers, SaaS platforms, fraud‑prevention systems, and any service that needs to automatically detect and block temporary or throwaway email accounts.
