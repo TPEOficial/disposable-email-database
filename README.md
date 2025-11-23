@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Disposable Email Database — The Largest in the World</h1>
   <h3>Access the world's largest fraud validation database for free.</h3>
+  <a href="https://tpe.li/new-api-key"><img alt="16M de datos" src="https://img.shields.io/badge/16M%20data-purple?style=for-the-badge&logo=database"/></a>
   <a href="https://github.com/TPEOficial"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ko-fi.com/fjrg2007"> <img alt="Kofi" src="https://img.shields.io/badge/Ko--fi-purple?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   <br />
@@ -44,19 +45,7 @@ curl -X POST https://api.tpeoficial.com/v1/private/secure/verify \
     -H "Content-Type: application/json" \
     -H "Authorization: Bearer PRIVATE_TOKEN_HERE" \
     -d '{
-            "url": "https://test.com/test",
-            "email": "test@test.com", 
-            "phone": "+34617509462",
-            "domain": "test.com",
-            "creditCard": {
-                "pan": "5110929780543845",
-                "expirationDate": "01/2030",
-                "cvv": "123"
-            },
-            "ip": "52.94.236.248",
-            "wallet": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "iban": "ES8101825332130207315465"
+            "email": "test@test.com"
         }'
 ```
 
