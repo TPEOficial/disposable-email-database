@@ -94,6 +94,3 @@ curl -X POST https://api.tpeoficial.com/v1/private/secure/verify \
 
 This database and API are provided for security and fraud‑prevention purposes.
 You may use it in commercial or personal projects according to the included license terms.
-
-Si quieres, también puedo crear una versión más larga, más profesional, o directamente el repositorio completo (README + ejemplos + estructura).
-```
