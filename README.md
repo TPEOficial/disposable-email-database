@@ -49,6 +49,27 @@ curl -X POST https://api.tpeoficial.com/v1/private/secure/verify \
         }'
 ```
 
+Or you can use...
+<div align="center">
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API Node.JS SDK</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API Bun.JS SDK</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API Better-Auth SDK</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API Zod SDK</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API CLI SDK</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API Python SDK</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API PHP SDK</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://docs.tpeoficial.com/docs/dymo-api/getting-started/quick-guide">Dymo API CURL SDK</a>
+  <br />
+  <hr />
+</div>
+
 ## Response Example
 
 ```json
